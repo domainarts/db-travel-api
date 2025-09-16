@@ -14,8 +14,11 @@ It uses Pinia for state management, Tailwind CSS for styling, and connects to th
 ## Project Structure
 ```
 ├── app/
+│   ├── assets/             # css etc.
 │   ├── components/         # UI components (Header, Footer, etc.)
+│   ├── layouts/            # Global Page Layouts 
 │   ├── pages/              # Pages (index.vue, station/[id].vue)
+│   ├── plugins/            # Pligins (pinia)
 │   ├── stores/             # Pinia stores
 │   ├── types/              # Custom type declarations
 ├── bruno/                  # Brunofiles for API testing
