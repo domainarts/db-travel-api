@@ -58,11 +58,9 @@ NodeJS 20 or higher
 - `/api/journeys`: Search for connections
 
 ## Bruno
-You can load bruno collection to your bruno.
-
-Bruno is a free API Client like Postman
-
-https://www.usebruno.com
+You can load bruno collection to your bruno.  
+Bruno is a free API Client like Postman.  
+https://www.usebruno.com. 
 
 
 ## Types & Aliases
