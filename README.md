@@ -57,6 +57,12 @@ NodeJS 20 or higher
 - `/api/locations`: Search for stations
 - `/api/journeys`: Search for connections
 
+## Bruno
+You can load bruno collection to your bruno
+Bruno is a free API Client like Postman
+https://www.usebruno.com
+
+
 ## Types & Aliases
 - Custom types are in `types/`
 - TypeScript aliases for `@/` are configured in `tsconfig.json` and `vitest.config.ts`
