@@ -28,6 +28,9 @@ It uses Pinia for state management, Tailwind CSS for styling, and connects to th
 ├── package.json            # Dependencies
 ```
 
+## Dependencies
+NodeJS 20 or higher
+
 ## Setup & Development
 1. Install dependencies:
    ```sh
