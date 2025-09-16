@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "DB-API-DEMO",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

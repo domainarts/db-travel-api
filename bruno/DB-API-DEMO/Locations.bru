@@ -1,0 +1,19 @@
+meta {
+  name: Locations
+  type: http
+  seq: 1
+}
+
+get {
+  url: http://localhost:3000/api/locations?q=Köln
+  body: none
+  auth: inherit
+}
+
+params:query {
+  q: Köln
+}
+
+settings {
+  encodeUrl: true
+}
